@@ -27,8 +27,10 @@ A Spring Boot project to manage customers, products, and orders with reporting f
 
 📂 Source code: `src/main/java/com/assignment/order_management_system`
 
+## 🔗 Project Link
+GitHub: [https://github.com/Gourang-Agrawal/Order-Management-System.git)
 
- ## How to Run
+## How to Run
 - Create a MySQL database named `order_management`
 - Update your `application.properties` with DB credentials
 - Run the project using your IDE.
