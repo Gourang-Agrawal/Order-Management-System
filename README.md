@@ -2,7 +2,7 @@
 
 A Spring Boot project to manage customers, products, and orders with reporting features.
 
-## ✅ Features Covered (as per Assignment)
+## ✅ Features Covered
 1. **Customer Management**
   - Add, update, and fetch customer details
 2. **Product Management**
