@@ -32,12 +32,13 @@ A Spring Boot project to manage customers, products, and orders with reporting f
 - Create a MySQL database named `order_management`
 - Update your `application.properties` with DB credentials
 - Run the project using your IDE.
-- 
+  
 ## API Testing
 Use Postman to test endpoints like:
 - `POST /api/customers`
 - `POST /api/products`
 - `POST /api/orders`
+
 📦 Sample order request:
 ```json
 {
